@@ -14,7 +14,10 @@ public class HelloWorld {
 		// 문자열데이터는 큰따움표로 묶는다. "x","1","Hello"
 		// /n => new line
 		// /t => tab공간
+		int n=(int)x;// ()casting
 		
+		int m =128;
+		float p=m;
 	}
 
 }
