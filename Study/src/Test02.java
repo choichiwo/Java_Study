@@ -18,7 +18,20 @@ public class Test02 {
 		}
 		System.out.println("프로그램 종료");
 		
-		
+		switch(str) {
+		case "a","A":
+			System.out.println("Apple");
+			break;
+		case "b","B":
+			System.out.println("Banana");
+			break;
+		case "w","W":
+			System.out.println("Watermelon");
+			break;
+		default:
+			System.out.println("모르는 이니셜");
+		}
+		System.out.println("프로그램 종료");
 	}
 
 }
