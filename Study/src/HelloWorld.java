@@ -26,6 +26,7 @@ public class HelloWorld {
 			System.out.println("같다");
 		
 		//Scanner s = new Scanner(System.in); 빈공간을 만들어서 입력하면 출력하는 기능
+		
 	}
 
 }
