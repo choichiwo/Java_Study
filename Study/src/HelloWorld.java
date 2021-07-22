@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class HelloWorld {
 
@@ -18,6 +19,13 @@ public class HelloWorld {
 		
 		int m =128;
 		float p=m;
+		// && and
+		// || or
+		// ! not
+		if(1==1)
+			System.out.println("같다");
+		
+		//Scanner s = new Scanner(System.in); 빈공간을 만들어서 입력하면 출력하는 기능
 	}
 
 }
